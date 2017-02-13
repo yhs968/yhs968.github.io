@@ -2,7 +2,7 @@
 layout: post
 title:  "Gaussian Process Regression with scikit-learn"
 date:   2017-02-13
-categories: jekyll update
+categories: ml
 ---
 
 # GP(Gaussian Process) Regression with `scikit-learn`
