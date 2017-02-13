@@ -75,6 +75,7 @@ plt.title('Samples(Functions) from a GP prior')
 plt.show()
 ```
 
+    
     Initial Kernel
     1**2 * RBF(length_scale=1)
 
