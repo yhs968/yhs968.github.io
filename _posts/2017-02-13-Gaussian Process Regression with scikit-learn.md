@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "GP Regression with scikit-learn"
+title:  "Gaussian Process Regression with scikit-learn"
 date:   2017-02-13
 categories: jekyll update
 ---
 
-# GP Regression with `scikit-learn`
+# GP(Gaussian Process) Regression with `scikit-learn`
 
 **GPML(Gaussian Processes for Machine Learning)[1]** is a great book to learn Gaussian Processes.  
 However, I found that there aren't many python codes that actually reproduces the examples in the book.(most of them were general-purpose libraries)  
@@ -14,7 +14,7 @@ Thus, I wrote a piece of python code(based on the `scikit-learn` library) that r
 *Disclaimer: I do not own anything. All rights belong to the authors of the GPML book and the scikit-learn library*
 
 ## References
-[1] GPML(Gaussian Processes for Machine Learning), the MIT Press, 2006  
+[1] GPML(Gaussian Processes for Machine Learning), Rasmussen and Williams, The MIT Press, 2006  
 [2] [sklearn.gaussian_process.GaussianProcessRegressor](http://scikit-learn.org/stable/modules/generated/sklearn.gaussian_process.GaussianProcessRegressor.html#sklearn.gaussian_process.GaussianProcessRegressor)  
 [3] [Gaussian Processes regression: basic introductory example](http://scikit-learn.org/stable/auto_examples/gaussian_process/plot_gpr_noisy_targets.html#sphx-glr-auto-examples-gaussian-process-plot-gpr-noisy-targets-py)    
 [4] [Gaussian process regression (GPR) on Mauna Loa CO2 data](http://scikit-learn.org/stable/auto_examples/gaussian_process/plot_gpr_co2.html#sphx-glr-auto-examples-gaussian-process-plot-gpr-co2-py)
