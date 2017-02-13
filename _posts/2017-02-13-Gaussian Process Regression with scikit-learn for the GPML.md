@@ -16,6 +16,7 @@ Thus, I wrote a piece of python code(based on the `scikit-learn` library) that r
 2. Sampling from a Prior
 3. GP Regression for Noise-free observations
 4. GP Regression for Noisy observations
+5. The Manua Loa CO2 Example
 
 ### 1. Importing the necessary libraries
 
@@ -266,7 +267,7 @@ plt.show()
 ![](/assets/GPML/gpml_4.png)
 
 
-## The Manua Loa CO2 Example: Section 5.4.3 of the GPML
+## 5. The Manua Loa CO2 Example: Section 5.4.3 of the GPML
 
 ### Load the data and preprocess using pandas
 - Download the [dataset](http://cdiac.esd.ornl.gov/ftp/trends/co2/maunaloa.co2) and save as maunaloa.co2 in your working directory.
