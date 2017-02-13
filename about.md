@@ -12,28 +12,24 @@ permalink: /about/
 ### Research/Work Experience
 - Soldier, Republic Of Korea Army, 2012-2014
 
-### Personal Projects
+### Projects
 - Ongoing
 - Completed
-- Future(tentative)
-	- Algorithmic Trading System
-	- worldSheet: a visual summary of the world's economy and politics
 
 ### Skills / Tools
-- Java, C++, Python, R, SAS, MySQL, <s>Octave</s>  
+- Java, C++, Python, R, SAS, MySQL, <s>Octave</s>   
 \* strikeouts: no recent uses.
 
 ### Education / Work Experiences
-- M.S.Student, Knowledge Service Engineering, KAIST (2017~)
+- M.S. Student, Knowledge Service Engineering, KAIST (2017~)
 - B.S. Statistics, Sungkyunkwan Univ
 - B.A. Global Economics, Sungkyunkwan Univ
 
 ### Contact
-- Github : yhs-968 <a href="https://github.com/yhs-968"><i class="fa fa-github"></i></a>
-- e-mail : younghun8242@gmail.com
+- yhs968@kaist.ac.kr
 
 
 
 
 
-last update: Jan 12<sup>th</sup>, 2017
+last update: Feb 13<sup>th</sup>, 2017
