@@ -80,7 +80,7 @@ plt.show()
 
 
 
-![](assets/GPML/gpml_1.png)
+![](/assets/GPML/gpml_1.png)
 
 
 ### 3. GP Regression for Noise-free observations: Figure 2.2 (b) of the GPML
@@ -154,7 +154,7 @@ plt.show()
 
 
 
-![](assets/GPML/gpml_2.png)
+![](/assets/GPML/gpml_2.png)
 
 
 ### 3. GP Regression for Noisy observations: a diversion from the Figure 2.2 (b) of the GPML
@@ -214,7 +214,7 @@ plt.show()
 
 
 
-![](assets/GPML/gpml_3.png)
+![](/assets/GPML/gpml_3.png)
 
 
 #### Matern Kernel
@@ -271,7 +271,7 @@ plt.show()
 
 
 
-![](assets/GPML/gpml_4.png)
+![](/assets/GPML/gpml_4.png)
 
 
 ## The Manua Loa CO2 Example: Section 5.4.3 of the GPML
@@ -318,7 +318,7 @@ plt.show()
 ```
 
 
-![](assets/GPML/gpml_5.png)
+![](/assets/GPML/gpml_5.png)
 
 
 ### Fitting the GP
@@ -399,5 +399,5 @@ plt.show()
 ```
 
 
-![](assets/GPML/gpml_6.png)
+![](/assets/GPML/gpml_6.png)
 
