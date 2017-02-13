@@ -149,7 +149,7 @@ plt.show()
 ![](/assets/GPML/gpml_2.png)
 
 
-### 3. GP Regression for Noisy observations: a diversion from the Figure 2.2 (b) of the GPML
+### 4. GP Regression for Noisy observations: a diversion from the Figure 2.2 (b) of the GPML
 
 #### RBF Kernel
 

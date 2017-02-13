@@ -27,9 +27,3 @@ permalink: /about/
 
 ### Contact
 - yhs968@kaist.ac.kr
-
-
-
-
-
-last update: Feb 13<sup>th</sup>, 2017
