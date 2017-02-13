@@ -1,23 +1,15 @@
 ---
 layout: post
-title:  "Gaussian Process Regression with scikit-learn"
+title:  "Gaussian Process Regression with scikit-learn for the GPML"
 date:   2017-02-13
 categories: ml
 ---
-
-# GP(Gaussian Process) Regression with `scikit-learn`
 
 **GPML(Gaussian Processes for Machine Learning)[1]** is a great book to learn Gaussian Processes.  
 However, I found that there aren't many python codes that actually reproduces the examples in the book.(most of them were general-purpose libraries)  
 Thus, I wrote a piece of python code(based on the `scikit-learn` library) that reproduces some of the examples in the textbook, so that we can verify the results in the book and play around with the models.
 
 *Disclaimer: I do not own anything. All rights belong to the authors of the GPML book and the scikit-learn library*
-
-## References
-[1] GPML(Gaussian Processes for Machine Learning), Rasmussen and Williams, The MIT Press, 2006  
-[2] [sklearn.gaussian_process.GaussianProcessRegressor](http://scikit-learn.org/stable/modules/generated/sklearn.gaussian_process.GaussianProcessRegressor.html#sklearn.gaussian_process.GaussianProcessRegressor)  
-[3] [Gaussian Processes regression: basic introductory example](http://scikit-learn.org/stable/auto_examples/gaussian_process/plot_gpr_noisy_targets.html#sphx-glr-auto-examples-gaussian-process-plot-gpr-noisy-targets-py)    
-[4] [Gaussian process regression (GPR) on Mauna Loa CO2 data](http://scikit-learn.org/stable/auto_examples/gaussian_process/plot_gpr_co2.html#sphx-glr-auto-examples-gaussian-process-plot-gpr-co2-py)
 
 ## Contents
 1. Importing the necessary libraries
@@ -39,7 +31,6 @@ ExpSineSquared as ESS, RationalQuadratic as RQ, Matern as M
 ```
 
 ### 2. Sampling from a prior: Figure 2.2 (a) of the GPML
-
 
 ```python
 # Specify a GP prior
@@ -358,13 +349,16 @@ summary(gp_opt)
 
     Fitted Kernel(not optimized)
     
-    66**2 * RBF(length_scale=67) + 2.4**2 * RBF(length_scale=90) * ExpSineSquared(length_scale=1.3, periodicity=1) + 0.66**2 * RationalQuadratic(alpha=0.78, length_scale=1.2) + 0.18**2 * RBF(length_scale=1.6) + WhiteKernel(noise_level=0.19)
+    66**2 * RBF(length_scale=67) + 2.4**2 * RBF(length_scale=90) * ExpSineSquared(length_scale=1.3, periodicity=1) +
+    0.66**2 * RationalQuadratic(alpha=0.78, length_scale=1.2) + 0.18**2 * RBF(length_scale=1.6) + WhiteKernel(noise_level=0.19)
     
     log marginal likelihood: -286.27123
     
     Fitted Kernel(not optimized)
     
-    85.7**2 * RBF(length_scale=80) + 2.4**2 * RBF(length_scale=174) * ExpSineSquared(length_scale=1.27, periodicity=1) + 1.65**2 * RationalQuadratic(alpha=0.0112, length_scale=1.06) + 0.552**2 * RBF(length_scale=2.72) + WhiteKernel(noise_level=0.0392)
+    85.7**2 * RBF(length_scale=80) + 2.4**2 * RBF(length_scale=174) * ExpSineSquared(length_scale=1.27, periodicity=1) +
+    1.65**2 * RationalQuadratic(alpha=0.0112, length_scale=1.06) + 0.552**2 * RBF(length_scale=2.72) +
+    WhiteKernel(noise_level=0.0392)
     
     log marginal likelihood: -140.70012
     
@@ -402,3 +396,8 @@ plt.show()
 
 ![](/assets/GPML/gpml_6.png)
 
+## References
+[1] GPML(Gaussian Processes for Machine Learning), Rasmussen and Williams, The MIT Press, 2006  
+[2] [sklearn.gaussian_process.GaussianProcessRegressor](http://scikit-learn.org/stable/modules/generated/sklearn.gaussian_process.GaussianProcessRegressor.html#sklearn.gaussian_process.GaussianProcessRegressor)  
+[3] [Gaussian Processes regression: basic introductory example](http://scikit-learn.org/stable/auto_examples/gaussian_process/plot_gpr_noisy_targets.html#sphx-glr-auto-examples-gaussian-process-plot-gpr-noisy-targets-py)    
+[4] [Gaussian process regression (GPR) on Mauna Loa CO2 data](http://scikit-learn.org/stable/auto_examples/gaussian_process/plot_gpr_co2.html#sphx-glr-auto-examples-gaussian-process-plot-gpr-co2-py)
