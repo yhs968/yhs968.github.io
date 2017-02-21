@@ -33,7 +33,7 @@ permalink: /about/
 ## Education / Work Experiences
 - M.S. Student, Knowledge Service Engineering, KAIST (2017~)
 - B.S. Statistics, Sungkyunkwan Univ
-- B.A. Global Economics, Sungkyunkwan Univ
+- B.S. Global Economics, Sungkyunkwan Univ
 
 ## Contact
 - yhs968@kaist.ac.kr
