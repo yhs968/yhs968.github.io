@@ -5,15 +5,13 @@ permalink: /about/
 ---
 
 ## Research Interests
-- Data Mining
-- Machine Learning
+- Data Mining / Machine Learning
 - Bayesian Inference
 
 ## Research/Work Experience
 - Soldier, Republic Of Korea Army (2012-2014)
 
 ## Projects
-
 ### Ongoing
 - Algorithmic Trading
   - Development of [simpleXing](https://github.com/yhs-968/simpleXing): an abstact python wrapper library for the xingAPI Home Trading System.
@@ -27,7 +25,10 @@ permalink: /about/
 - 
 
 ## Skills / Tools
-- Java, Python, C++, R, SAS, MySQL, <s>Octave</s>   
+- Programming Languages: Java, Scala, Python, R, <s>C++, Octave</s>
+- DBMS: MySQL
+- Distributed Computing Platform: Hadoop, Spark
+
 \* strikeouts: no recent uses.
 
 ## Education / Work Experiences
