@@ -5,8 +5,10 @@ permalink: /about/
 ---
 
 ## Research Interests
-- Data Mining / Machine Learning
+- Data Mining
+- Machine Learning
 - Bayesian Inference
+- Distributed / Parallel Computing
 
 ## Research/Work Experience
 - Research Assistant, [Data Mining Lab](http://dm.kaist.ac.kr/), [Graduate School of Knowledge Service Engineering](http://kse.kaist.ac.kr/), KAIST (2017~)
