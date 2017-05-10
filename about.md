@@ -7,33 +7,26 @@ permalink: /about/
 ## Research Interests
 - Data Mining
 - Machine Learning
-- Bayesian Inference
 - Distributed Computing
 
-## Research/Work Experience
+## Work Experience
 - Research Assistant, [Data Mining Lab](http://dm.kaist.ac.kr/), [Graduate School of Knowledge Service Engineering](http://kse.kaist.ac.kr/), KAIST (2017~)
 - Soldier, Republic Of Korea Army (2012 ~ 2014)
 
+## Papers
+- 
+
 ## Projects
-### Ongoing
 - Recommender System for Hotel Customers(2017~)
 - Algorithmic Trading
   - (Halted)Development of [simpleXing](https://github.com/yhs-968/simpleXing): an abstact python wrapper library for the xingAPI Home Trading System.
-  - (Projected)Building a real-time analysis engine with Machine Learning and Statistics
-  - (Projected)Mining unstructured data from the web and integrate the data into the analysis engine.
-
-### Past  
-- Drowsiness Detection using EEG signals
-
-## Contributions
-- 
+- Drowsiness Detection using EEG signals(2016)
 
 ## Skills / Tools
 - Programming Languages: Java, Scala, Python, R, <s>C++, Octave</s>
 - DBMS: MySQL
 - Distributed Computing Platform: Hadoop, Spark
 - Cloud Computing Platform: Azure
-- Server-side computing: Bash scripting
 
 \* strikeouts: no recent uses.
 
