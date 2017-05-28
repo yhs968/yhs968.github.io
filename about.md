@@ -5,9 +5,8 @@ permalink: /about/
 ---
 
 ## Research Interests
-- Data Mining
-- Machine Learning
-- Distributed Computing
+- Text Mining / Natural Language Processing
+- Bayesian Machine Learning
 
 ## Work Experience
 - Research Assistant, [Data Mining Lab](http://dm.kaist.ac.kr/), [Graduate School of Knowledge Service Engineering](http://kse.kaist.ac.kr/), KAIST (2017~)
@@ -22,8 +21,11 @@ permalink: /about/
   - (Halted)Development of [simpleXing](https://github.com/yhs-968/simpleXing): an abstact python wrapper library for the xingAPI Home Trading System.
 - Drowsiness Detection using EEG signals(2016)
 
+## Open-source Contributions
+- 
+
 ## Skills / Tools
-- Programming Languages: Java, Scala, Python, R, <s>C++, Octave</s>
+- Programming Languages: Python, R, Java, <s>C++, Octave, Scala</s>
 - DBMS: MySQL
 - Distributed Computing Platform: Hadoop, Spark
 - Cloud Computing Platform: Azure
