@@ -5,7 +5,7 @@ date:   2017-06-16
 categories: db
 ---
 
-mysqlclient is a python library to connect to a MySQL DB. However, when you install mysqlclient on ubuntu 16.04 LTS, you may get the following error:
+mysqlclient is a python library that you need to connect to a MySQL database using *MySQLdb*. However, when you install mysqlclient on ubuntu 16.04 LTS, you may get the following error:
 
 ```bash
 $ pip install mysqlclient
