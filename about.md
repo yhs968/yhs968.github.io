@@ -5,8 +5,9 @@ permalink: /about/
 ---
 
 ## Research Interests
-- Text Mining / Natural Language Processing
+- Text Mining/Natural Language Processing
 - Bayesian Machine Learning
+- Deep Learning
 
 ## Work Experience
 - Research Assistant, [Data Mining Lab](http://dm.kaist.ac.kr/), [Graduate School of Knowledge Service Engineering](http://kse.kaist.ac.kr/), KAIST (2017~)
@@ -38,4 +39,4 @@ permalink: /about/
 - B.S. Global Economics, Sungkyunkwan Univ
 
 ## Contact
-- yhs968@kaist.ac.kr
+- younghun.song@kaist.ac.kr
