@@ -22,7 +22,7 @@ permalink: /about/
 - 
 
 ## Skills / Tools
-- Programming Languages: Python, R, Java, <s>C++, Octave, Scala</s>
+- Programming Languages: Python(expert), R, Java(proficient), C++, Octave, Scala(prior experience)
 - DBMS: MySQL
 - Distributed Computing Platform: Hadoop, Spark
 - Cloud Computing Platform: Azure
