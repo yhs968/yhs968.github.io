@@ -5,9 +5,9 @@ permalink: /about/
 ---
 
 ## Research Interests
-- Text Mining/Natural Language Processing
-- Bayesian Machine Learning
-- Deep Learning
+- Deep Learning / Machine Learning
+- Recommender Systems
+- Natural Language Processing
 
 ## Work Experience
 - Research Assistant, [Data Mining Lab](http://dm.kaist.ac.kr/), [Graduate School of Knowledge Service Engineering](http://kse.kaist.ac.kr/), KAIST (2017~)
@@ -26,6 +26,7 @@ permalink: /about/
 - DBMS: MySQL
 - Distributed Computing Platform: Hadoop, Spark
 - Cloud Computing Platform: Azure
+- ML libraries: scikit-learn, tensorflow
 
 \* strikeouts: no recent uses.
 
