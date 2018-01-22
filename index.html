@@ -4,9 +4,13 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
+  <h1 class="page-heading"><span class="icon icon--github">{% include icon-github.svg %}</span>Github Repositories</h1>
+  <ul>
+    <li><a href="https://github.com/yhs-968/NLPCollections">NLP paper summaries and implementations</a></li>
+    <li><a href="https://github.com/yhs-968/cs671project">News Headline Generation via Neural Hierarchical Abstractive Summarization(2017, class project)</a></li>
+  </ul>
+  <!--List the Posts>
+  <!-- <ul class="post-list">
     {% for post in site.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
@@ -16,6 +20,6 @@ layout: default
         </h2>
       </li>
     {% endfor %}
-  </ul>
+  </ul> -->
 
 </div>
